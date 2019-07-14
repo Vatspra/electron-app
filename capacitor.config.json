@@ -1,0 +1,7 @@
+{
+  "appId": "com.electron.app",
+  "appName": "toDo-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
