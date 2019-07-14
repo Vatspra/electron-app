@@ -48,3 +48,7 @@ www/*
 #electron
 
 electron/*
+
+#release-builds
+
+release-builds/*
